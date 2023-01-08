@@ -7,5 +7,4 @@
 
 <h3 align="left">Connect with me: durgeshthakur13193@gmail.com</h3>
 
-<p align="left">
 <a href="https://www.linkedin.com/in/durgesh-singh-250159210" target="blank"></a>
